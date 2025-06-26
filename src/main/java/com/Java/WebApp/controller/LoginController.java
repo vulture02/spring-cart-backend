@@ -1,4 +1,4 @@
-package com.Java.WebApp;
+package com.Java.WebApp.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
